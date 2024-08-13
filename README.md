@@ -11,9 +11,13 @@ Welkom bij de **Melody Mania** App! Deze Flutter-applicatie is ontworpen om het 
 
 ## Projectstructuur
 lib/
+
 ├── models/              # Modellen voor gegevens zoals artiesten en Line-up.
+
 ├── providers/           # Providers voor het beheren van de status en data.
+
 ├── screens/             # Verschillende schermen van de app (Line-up, Tijdschema, etc.).
+
 └── main.dart            # Het hoofdprogramma.
 
 ## Demo
