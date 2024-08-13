@@ -1,0 +1,254 @@
+{
+  "artists": [
+    {
+      "id": "1",
+      "name": "Regi",
+      "genre": "Techno",
+      "imagePath": "assets/images/regi.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Joost Klein",
+      "genre": "Pop",
+      "imagePath": "assets/images/JoostKlein.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Hardwell",
+      "genre": "Hardstyle",
+      "imagePath": "assets/images/hardwell.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Coone",
+      "genre": "Hardstyle",
+      "imagePath": "assets/images/coone.jpg"
+    },
+    {
+      "id": "5",
+      "name": "5NAPBACK",
+      "genre": "Techno",
+      "imagePath": "assets/images/5napback.jpg"
+    },
+    {
+      "id": "6",
+      "name": "MATTN",
+      "genre": "EDM",
+      "imagePath": "assets/images/mattn.jpg"
+    },
+    {
+      "id": "7",
+      "name": "David Guetta",
+      "genre": "Dance",
+      "imagePath": "assets/images/DavidGuetta.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Boef",
+      "genre": "Rap",
+      "imagePath": "assets/images/Boef.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Da Tweekaz",
+      "genre": "Hardstyle",
+      "imagePath": "assets/images/DaTweekaz.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Michael Amani",
+      "genre": "Dance",
+      "imagePath": "assets/images/MichaelAmani.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Mark With A K",
+      "genre": "Hardstyle",
+      "imagePath": "assets/images/MWAK.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Nina Black",
+      "genre": "Hiphop",
+      "imagePath": "assets/images/NinaBlack.jpg"
+    },
+    {
+      "id": "13",
+      "name": "Timmy Trumpet",
+      "genre": "Dance",
+      "imagePath": "assets/images/TimmyTrumpet.jpg"
+    },
+    {
+      "id": "14",
+      "name": "Snelle",
+      "genre": "Rap",
+      "imagePath": "assets/images/snelle.jpg"
+    },
+    {
+      "id": "15",
+      "name": "USED",
+      "genre": "Drum-'n-bass",
+      "imagePath": "assets/images/USED.jpg"
+    },
+    {
+      "id": "16",
+      "name": "Jonas Baelus",
+      "genre": "Rap",
+      "imagePath": "assets/images/default-image.png"
+    }
+  ],
+  "stages": [
+    {
+      "id": "1",
+      "name": "Harmony Heights"
+    },
+    {
+      "id": "2",
+      "name": "Tempo Terrace"
+    },
+    {
+      "id": "3",
+      "name": "Melody Meadow"
+    }
+  ],
+  "lineup": [
+    {
+      "id": "1",
+      "artistId": 1,
+      "stageId": 1,
+      "time": "2024-08-23T18:00:00"
+    },
+    {
+      "id": "2",
+      "artistId": 3,
+      "stageId": 2,
+      "time": "2024-08-23T19:00:00"
+    },
+    {
+      "id": "3",
+      "artistId": 1,
+      "stageId": 2,
+      "time": "2024-08-24T18:00:00.000"
+    },
+    {
+      "id": "4",
+      "artistId": 2,
+      "stageId": 1,
+      "time": "2024-08-25T17:00:00"
+    },
+    {
+      "id": "5",
+      "artistId": 4,
+      "stageId": 2,
+      "time": "2024-08-23T20:00:00"
+    },
+    {
+      "id": "6",
+      "artistId": 3,
+      "stageId": 2,
+      "time": "2024-08-25T21:30:00.000"
+    },
+    {
+      "id": "7",
+      "artistId": 1,
+      "stageId": 3,
+      "time": "2024-08-25T20:00:00.000"
+    },
+    {
+      "id": "8",
+      "artistId": 6,
+      "stageId": 1,
+      "time": "2024-08-23T19:00:00.000"
+    },
+    {
+      "id": "9",
+      "artistId": 12,
+      "stageId": 1,
+      "time": "2024-08-23T21:00:00.000"
+    },
+    {
+      "id": "10",
+      "artistId": 9,
+      "stageId": 2,
+      "time": "2024-08-23T21:30:00.000"
+    },
+    {
+      "id": "11",
+      "artistId": 10,
+      "stageId": 3,
+      "time": "2024-08-23T19:00:00.000"
+    },
+    {
+      "id": "12",
+      "artistId": 15,
+      "stageId": 3,
+      "time": "2024-08-23T21:00:00.000"
+    },
+    {
+      "id": "13",
+      "artistId": 5,
+      "stageId": 1,
+      "time": "2024-08-24T19:00:00.000"
+    },
+    {
+      "id": "14",
+      "artistId": 2,
+      "stageId": 3,
+      "time": "2024-08-24T18:00:00.000"
+    },
+    {
+      "id": "15",
+      "artistId": 8,
+      "stageId": 3,
+      "time": "2024-08-24T19:00:00.000"
+    },
+    {
+      "id": "16",
+      "artistId": 7,
+      "stageId": 1,
+      "time": "2024-08-24T20:00:00.000"
+    },
+    {
+      "id": "17",
+      "artistId": 14,
+      "stageId": 3,
+      "time": "2024-08-24T20:00:00.000"
+    },
+    {
+      "id": "18",
+      "artistId": 11,
+      "stageId": 2,
+      "time": "2024-08-24T20:00:00.000"
+    },
+    {
+      "id": "19",
+      "artistId": 12,
+      "stageId": 3,
+      "time": "2024-08-25T18:00:00.000"
+    },
+    {
+      "id": "20",
+      "artistId": 13,
+      "stageId": 1,
+      "time": "2024-08-25T20:00:00.000"
+    },
+    {
+      "id": "21",
+      "artistId": 9,
+      "stageId": 2,
+      "time": "2024-08-25T20:00:00.000"
+    },
+    {
+      "id": "22",
+      "artistId": 11,
+      "stageId": 2,
+      "time": "2024-08-25T18:00:00.000"
+    },
+    {
+      "id": "23",
+      "artistId": 16,
+      "stageId": 1,
+      "time": "2024-08-23T16:00:00.000"
+    }
+  ]
+}
